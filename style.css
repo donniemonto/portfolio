@@ -1,0 +1,39 @@
+
+
+body {
+    font-family: 'Noto Sans Sinhala', sans-serif;
+    background-color: #C4513B
+}
+
+h1, .topmain-text {
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 50px;
+}
+
+.topheader-name {
+    text-align: right;
+}
+
+.topmain-img {
+    border-radius: 25px;
+}
+
+.freecodecamp {
+    text-align: right;
+}
+
+.header {
+    font-weight: 700;
+    
+}
+
+.navbar:hover {
+    text-decoration: none;
+}
+
+.footer-item {
+    text-decoration: none;
+    color: black;
+}
+
